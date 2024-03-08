@@ -1,6 +1,6 @@
 {
   "name": "tehikunode",
-  "version": "1.0.0",
+  "version": "1.1.2",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,5 +22,21 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.2"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkia2/tehikunode.git"
+  },
+  "keywords": [
+    "tehikunode"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hkia2/tehikunode/issues"
+  },
+  "homepage": "https://github.com/hkia2/tehikunode#readme"
 }
+
