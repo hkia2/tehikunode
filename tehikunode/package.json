@@ -1,6 +1,6 @@
 {
   "name": "tehikunode",
-  "version": "1.1.2",
+  "version": "1.1.6",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hkia2/tehikunode.git"
+    "url": "https://github.com/hkia2/tehikunode.git"
   },
   "keywords": [
     "tehikunode"
